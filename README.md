@@ -4,10 +4,14 @@ Implementação de um algoritmo em linguagem C que utiliza vetores para a repres
 O algoritmo deve oferece um menu de texto que dispõe das seguintes operações:
 
 1. Inserção de valores em um conjunto: nesta operação, o usuário escolhe o conjunto (A
-ou B) e insere os valores. NOTA:
+ou B) e insere os valores. 
+
+NOTA:
 a) O vetor que implementa cada conjunto deve ser de tipo inteiro;
+
 b) O usuário pode inserir vários valores na sequência. É utilizado um
 critério de parada (o valor zero);
+
 c) O algoritmo verifica se o valor já foi inserido, evitando a inserção de valores
 repetidos (pois um conjunto deve conter valores distintos entre si).
 
