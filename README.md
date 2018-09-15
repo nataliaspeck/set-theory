@@ -6,7 +6,6 @@ O algoritmo deve oferece um menu de texto que dispõe das seguintes operações:
 1. Inserção de valores em um conjunto: nesta operação, o usuário escolhe o conjunto (A
 ou B) e insere os valores. 
 
-NOTA:
 a) O vetor que implementa cada conjunto deve ser de tipo inteiro;
 
 b) O usuário pode inserir vários valores na sequência. É utilizado um
