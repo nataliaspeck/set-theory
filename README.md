@@ -32,3 +32,5 @@ conjunto resultante deve ser mostrado na tela.
 
 7. Verifica se um conjunto está contido no outro: o usuário deve escolher a ordem dos
 parâmetros (A contido em B ou B contido em A).
+
+O código conta frenquentemente com comentários para fornecer ao usuário uma melhor experiência e compreensão do software utilizado.
